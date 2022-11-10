@@ -16,4 +16,7 @@
   -->
 <resources>
     <string name="app_name">Happy Birthday</string>
+
+    <string name="happy_birth_message">Happy Birthday, Lee!</string>
+    <string name="happy_birth_from">- From JM</string>
 </resources>

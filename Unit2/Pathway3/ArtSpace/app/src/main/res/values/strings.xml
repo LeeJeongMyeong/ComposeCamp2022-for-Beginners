@@ -1,3 +1,20 @@
 <resources>
     <string name="app_name">ArtSpace</string>
+
+    <string name="unknown_year">0000</string>
+    <string name="unknown_artist">Unknown</string>
+
+    <string name="starry_night">Starry Nigh</string>
+    <string name="starry_night_artist">Van Gogh</string>
+    <string name="starry_night_year">1889</string>
+
+    <string name="meisje_met_de_parel">Meisje met de parel</string>
+    <string name="meisje_met_de_parel_artist">Johannes Vermeer</string>
+    <string name="meisje_met_de_parel_year">1665</string>
+
+    <string name="broken_cat">Broken Cat</string>
+
+    <string name="waiting_cat">Waiting Cat</string>
+
+    <string name="image_description">%s (%s)</string>
 </resources>
